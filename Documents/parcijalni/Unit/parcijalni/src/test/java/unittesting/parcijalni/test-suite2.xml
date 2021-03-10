@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "smartHouseSuite">
+	<test name = "smartHouseTest">
+		<classes>
+			<class name = "unittesting.parcijalni.SmartHouseTest"></class>
+		</classes>
+	</test>
+</suite>

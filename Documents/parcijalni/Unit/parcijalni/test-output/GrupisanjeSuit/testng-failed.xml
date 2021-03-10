@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [GrupisanjeSuit]">
+  <test name="grupa_testcase">
+    <groups>
+      <run>
+        <include name="odabranaMetoda"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="unittesting.calculator.CalculatorTestAddSub"/>
+      <class name="unittesting.calculator.CalculatorTestSquare"/>
+    </classes>
+  </test> <!-- grupa_testcase -->
+</suite> <!-- Failed suite [GrupisanjeSuit] -->
